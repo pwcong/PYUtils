@@ -8,3 +8,4 @@
 - GenerateCodeFromFiles.py  扫描文件夹内所有文件，生成代码。
 
 ### file
+- RenameFiles.py 扫描文件夹内所有文件，并重新命名
