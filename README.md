@@ -5,7 +5,8 @@
 ## PyUtils
 
 ### code
-- GenerateCodeFromFiles.py  扫描文件夹内所有文件，生成代码。
+- GenerateCodeFromFiles.py ----------------------  扫描文件夹内所有文件，生成代码。
 
 ### file
-- RenameFiles.py 扫描文件夹内所有文件，并重新命名
+- RenameFiles.py --------------------------------- 扫描文件夹内所有文件，并重新命名
+- ConvertEncoding.py ----------------------------- 扫描输入文件夹内所有文件，并进行文本编码转换
